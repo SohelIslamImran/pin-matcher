@@ -33,7 +33,7 @@ body {
 }
 
 input[type="text"] {
-  background-color: #3d4153;
+  background-color: #3d4153 !important;
   padding: 10px 0px;
   color: #ffffff;
   width: 80%;
@@ -45,7 +45,7 @@ input[type="text"] {
   font-size: 20px;
 }
 input[type="text"]:focus {
-  background-color: #3d4153;
+  background-color: #3d4153 !important;
   color: #fff;
   font-size: 20px;
 }
